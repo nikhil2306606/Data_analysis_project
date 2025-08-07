@@ -40,4 +40,4 @@ The dataset was scraped from Zepto's live product listings and sourced via Kaggl
 - Categories with highest discount offers
 - Value of unsold inventory (based on available stock)
   
-All queries are available inside the 
+All queries are available inside the data_analysis_project.sql 
