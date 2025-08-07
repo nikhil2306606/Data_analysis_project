@@ -48,8 +48,10 @@ Next, this project will include interactive dashboards and visualizations using:
 
 These will help convert raw SQL insights into visual reports useful for stakeholders.
 
-👨‍💻 Author
+-------👨‍💻 Author------
+
 Nikhil Pereira
+
 Aspiring Data Analyst | BSc Statistics & Computer Science
 Learning through real-world projects and building a strong data portfolio
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nikhilpereira23/)
