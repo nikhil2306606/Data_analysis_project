@@ -39,5 +39,19 @@ The dataset was scraped from Zepto's live product listings and sourced via Kaggl
 - Most stocked or popular product categories
 - Categories with highest discount offers
 - Value of unsold inventory (based on available stock)
-  
-All queries are available inside the data_analysis_project.sql 
+
+
+🖼️ Coming Soon: Data Visualizations
+
+Next, this project will include interactive dashboards and visualizations using:
+📊 Power BI 
+
+These will help convert raw SQL insights into visual reports useful for stakeholders.
+
+👨‍💻 Author
+Nikhil Pereira
+Aspiring Data Analyst | BSc Statistics & Computer Science
+Learning through real-world projects and building a strong data portfolio
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nikhilpereira23/)
+
+
