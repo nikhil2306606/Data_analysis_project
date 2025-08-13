@@ -42,12 +42,17 @@ The dataset was scraped from Zepto's live product listings and sourced via Kaggl
 
 
 📌 Power BI Visualization – Zepto Dataset
+
 This interactive Power BI dashboard delivers detailed insights from the Zepto product dataset, including: 
 
 📊 Sales Performance: Revenue trends by category and product.
+
 💰 Pricing Insights: Comparison of MRP vs. discounted selling prices.
+
 🏆 Top Rankings: Best-selling products and top revenue-generating categories.
+
 🎯 Discount Analysis: Distribution and impact of discounts across categories.
+
 
 ⚠️ Note: These insights are generated solely from the provided dataset and do not represent real-world market trends
 
